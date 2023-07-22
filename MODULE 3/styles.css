@@ -1,0 +1,33 @@
+
+
+
+
+.container {
+  margin: 20px auto;
+  text-align: center;
+  border-radius: 12px;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  border: black solid;
+
+  
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid black;
+  color:black;
+  background-color: rgb(234, 240, 243);
+}
+
+th {
+  background-color: #b8bbdf;
+}
+.cryptoTable{
+  border-radius: 12px;
+}
